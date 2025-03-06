@@ -32,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-c-addweb&show_icons=true&locale=en&layout=compact" alt="vishal-c-addweb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-c-addweb&show_icons=true&locale=en" alt="vishal-c-addweb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-c-addweb&show_icons=true&locale=en" alt="Vishal-c-addweb" /></p>
