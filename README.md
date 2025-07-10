@@ -30,6 +30,3 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-c-addweb&show_icons=true&locale=en&layout=compact" alt="vishal-c-addweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-c-addweb&show_icons=true&locale=en" alt="Vishal-c-addweb" /></p>
