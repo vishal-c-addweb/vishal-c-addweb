@@ -5,13 +5,14 @@
 - 🤝 **Looking to Collaborate On:** Open-source projects, startups, and dev communities
 - 🛠️ **Seeking Help With:** Advanced backend architectures and DevOps
 - 📖 **Currently Learning:** Kubernetes, microservices, and cloud deployment
-- 💬 **Ask Me About:** JavaScript, React, Node.js, MongoDB, Express.js
+- 💬 **Ask Me About:** Python/DjangoJavaScript, Vue.js, React, Node.js, MongoDB, Express.js
 - ☕ **Fun Fact:** My debugging skills improve after coffee!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchunara&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchunara" /> </p>
 
 ## 🚀 Tech Stack & Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
@@ -29,4 +30,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
