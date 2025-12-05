@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Chunara</h1>
-<h3 align="center">Full-Stack (MERN) Developer | 4+ Years of Experience | Passionate About Scalable Solutions</h3>
+<h3 align="center">Full-Stack (MERN) Developer | 4.5+ Years of Experience | Passionate About Scalable Solutions</h3>
 
 - 🚀 **Currently Working On:** Scalable full-stack apps
 - 🤝 **Looking to Collaborate On:** Open-source projects, startups, and dev communities
 - 🛠️ **Seeking Help With:** Advanced backend architectures and DevOps
 - 📖 **Currently Learning:** Kubernetes, microservices, and cloud deployment
-- 💬 **Ask Me About:** Python/DjangoJavaScript, Vue.js, React, Node.js, MongoDB, Express.js
+- 💬 **Ask Me About:** Python/Django, JavaScript, Vue.js, React, Node.js, MongoDB, Express.js
 - ☕ **Fun Fact:** My debugging skills improve after coffee!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchunara&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchunara" /> </p>
